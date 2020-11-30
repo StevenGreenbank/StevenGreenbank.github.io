@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Obfuscape!](/obfuscape)
+<img src="images/obfuscape_title_screen.jpg?raw=true" height=480px/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
