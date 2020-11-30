@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Games I've Made Alone
 
-[Obfuscape!](/obfuscape)
-<img src="images/obfuscape_title_screen.jpg?raw=true" height=480px/>
+#### [Obfuscape!](/obfuscape)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/obfuscape_title_screen.png?raw=true" width=354px height=251px/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+#### [Team Work Simulator]
+
+<img src="images/image3.png?raw=true" width=354px height=399x/>
+
 
 ---
 
