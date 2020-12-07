@@ -1,1 +1,3 @@
-(Coming soon)
+Steven Greenbank is a software developer with a primary focus on front end web development, creative coding and game development. He has a BSc in Computer Science with a Creative Technologies Concentration from the University of Regina, as well as certificates in both New Media Communication and Web Development from SIAST. His interest is breathing new life into game design ideas that have long been abandoned and remain unexplored, as well as hacker and maker culture. He has collaborated on a number of web development projects and has developed various software prototypes for businesses and non-profits. 
+
+Steven's endeavors have ranged from hosting a radio program for CJTR, being a stage hand for the University of Regina's iPad Orchestra, co-founding a cryptocurrency and sentiment analysis startup, building a laser-based MIDI synthesizer and co-developing several games. 
