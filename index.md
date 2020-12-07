@@ -24,12 +24,12 @@
 
 
 
-
----
+-----------
+-----------
 
 ### Game Jam Projects I was part of
 
-#### Segfault (Global Game Jam 2020) 
+#### [Segfault (Global Game Jam 2020)](https://globalgamejam.org/2020/games/segfault-3)
 
 <img src="https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2020/02/263857/title_screen.png?itok=0NPqn1fs&timestamp=1580676589">
 
@@ -37,7 +37,7 @@
 
 ---- 
 
-#### Once Upon a Planet (Global Game Jam 2019)
+#### [Once Upon a Planet (Global Game Jam 2019)](https://inanefool.itch.io/once-upon-a-planet)
 
 <img src="https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/featured_image/2019/01/230381/title_screen-final.png?itok=lYjg5zCK&timestamp=1548621811">
 
