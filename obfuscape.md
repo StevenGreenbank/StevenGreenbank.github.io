@@ -10,5 +10,7 @@ Outside of the narrative elements the gameplay also stands on it's own in two va
 
 play it at [https://inanefool.itch.io/obfuscape](https://inanefool.itch.io/obfuscape)
 
-
+Or play embedded below:
+ 
+<iframe frameborder="0" src="https://itch.io/embed-upload/3034339?color=333333" allowfullscreen="" width="800" height="620"><a href="https://inanefool.itch.io/obfuscape">Play Obfuscape!! on itch.io</a></iframe>
 
