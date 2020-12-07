@@ -9,6 +9,7 @@
 <img src="images/obfuscape_title_screen.png?raw=true" width=354px height=251px/>
 
 ---
+---
 
 ### Experiments I've Conducted
 
@@ -43,6 +44,4 @@
 
 (Art By Jolyn Michaelis)
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+----
