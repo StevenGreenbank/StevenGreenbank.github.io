@@ -8,6 +8,8 @@ The game loop consists of the player given a single prompt with two potential an
 
 Outside of the narrative elements the gameplay also stands on it's own in two varieties of play, either through a single player endless mode, where players try to answer questions in rapid succession without failing, or in pass play mode, where users (particularly mobile, though this can be played through remote desktop software) pass devices around when prompted, given a bop-it or hot-potato style game play loop of fast pace brain-teasing puzzles. 
 
+You can read about the making of the game, as well as asset credits, [here](/obfuscape_history)
+
 play it at [https://inanefool.itch.io/obfuscape](https://inanefool.itch.io/obfuscape)
 
 Or play embedded below:
