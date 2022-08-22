@@ -12,7 +12,3 @@ You can read about the making of the game, as well as asset credits, [here](/obf
 
 play it at [https://inanefool.itch.io/obfuscape](https://inanefool.itch.io/obfuscape)
 
-Or play embedded below:
-
-<iframe frameborder="0" src="https://itch.io/embed-upload/6375305?color=333333" allowfullscreen="" width="800" height="620"><a href="https://inanefool.itch.io/obfuscape">Play Obfuscape!! on itch.io</a></iframe>
-
