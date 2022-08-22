@@ -14,5 +14,5 @@ play it at [https://inanefool.itch.io/obfuscape](https://inanefool.itch.io/obfus
 
 Or play embedded below:
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/3034339?color=333333" allowfullscreen="" width="800" height="620"><a href="https://inanefool.itch.io/obfuscape">Play Obfuscape!! on itch.io</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed-upload/6375305?color=333333" allowfullscreen="" width="800" height="620"><a href="https://inanefool.itch.io/obfuscape">Play Obfuscape!! on itch.io</a></iframe>
 
