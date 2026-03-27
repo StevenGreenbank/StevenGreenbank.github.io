@@ -36,6 +36,14 @@ A MIDI sequencer built with ardueno using photo-sensors and laser pointers.
 
 ### Game Jam Projects I was part of
 
+#### [Bübblemyn (Global Game Jam 2025)](https://globalgamejam.org/games/2025/protect-bubblemyn-4)
+
+The Planet of the Bübblemyn was peaceful and clean… but then aliens made a huge mess, and now factory waste has gotten all over the garbage and mutated it into monsters. This is a job for a bubble-gun-wielding Bübblemyn janitor! In this bullet heaven, collect power-up items, fight off grime monsters, and press Escape to check out the bestiary and items. And don’t forget your trusty bottle of Mr. Green cleaning solution!
+
+Made in the godot game engine
+
+<img src="images/bubblemyn_title.png?raw=true" width="335px" height="188px" />
+
 
 #### [Age of Greg (Global Game Jam 2024)](https://globalgamejam.org/games/2024/age-greg-8)
 
