@@ -43,7 +43,7 @@ In this visual novel, tech wizard Greg is a jaded IT guy in an office full of ar
 
 Made using a custom scripting language in the godot engine.
 
-<img src="images/AgeOfGreg_title.png?raw=true" height=399x/>
+<img src="images/AgeOfGreg_title.png?raw=true" height=196px/>
 
 (Art By Jolyn Michaelis)
 
