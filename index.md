@@ -36,6 +36,19 @@ A MIDI sequencer built with ardueno using photo-sensors and laser pointers.
 
 ### Game Jam Projects I was part of
 
+
+#### [Age of Greg (Global Game Jam 2024)](https://globalgamejam.org/games/2024/age-greg-8)
+
+In this visual novel, tech wizard Greg is a jaded IT guy in an office full of archetypes from pulp novels from the mid-20th century. He deals with support tickets all day, counting the years to his retirement by the minute. But perhaps this one ordinary day will change the future and bring AstonishCorp into the Age of Greg.
+
+Made using a custom scripting language in the godot engine.
+
+<img src="images/AgeOfGreg_title.png?raw=true" height=399x/>
+
+(Art By Jolyn Michaelis)
+
+---- 
+
 #### [Segfault (Global Game Jam 2020)](https://globalgamejam.org/2020/games/segfault-3)
 
 An exploratory, top-down RPG about fixing your own game-jam project from within the game itself. Built with GDQuests OpenRPG framework.
