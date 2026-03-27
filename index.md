@@ -44,6 +44,8 @@ Made in the godot game engine
 
 <img src="images/bubblemyn_title.png?raw=true" width="335px" height="188px" />
 
+---- 
+
 
 #### [Age of Greg (Global Game Jam 2024)](https://globalgamejam.org/games/2024/age-greg-8)
 
